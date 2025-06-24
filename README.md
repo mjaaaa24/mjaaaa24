@@ -30,7 +30,7 @@ I'm a self-taught web developer currently learning full stack development with a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
 ---
 
-## 🧠 Current Learning Progress
+## 🌱 Current Learning Progress
 
 | Course | Status |
 |--------|--------|
@@ -56,7 +56,7 @@ I'm a self-taught web developer currently learning full stack development with a
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ---
 
-## 💻 Projects
+## 🗃️ Projects
 
 - 🔗 [git-htmlcss-course](https://github.com/mjaaaa24/git-htmlcss-course)
 - 🔗 More coming soon...
