@@ -25,15 +25,22 @@ I'm a self-taught web developer currently learning full stack development with a
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
+---
+
 ## 🧠 Current Learning Progress
 
 | Course | Status |
 |--------|--------|
-| Brad Traversy - HTML & CSS | ⏳ In Progress |
-| Brad Traversy - Tailwind CSS | ⏳ In Progress |
-| Brad Traversy - React Front to Back | ⏳ Starting Soon |
-| Piotr Jura - Laravel + PHP | 🔜 Next |
-| Piotr Jura - Laravel + Vue 3 SPA | 🔜 Upcoming |
+| HTML & CSS | ⏳ In Progress |
+| Tailwind CSS | ⏳ In Progress |
+| Javascript | ⏳ In Progress |
+| React Front to Back | ⏳ Starting Soon |
+| Laravel + PHP | 🔜 Next |
+| Laravel + Vue 3 SPA | 🔜 Upcoming |
 
 ---
 
@@ -46,14 +53,9 @@ I'm a self-taught web developer currently learning full stack development with a
 
 ## 📫 Contact
 
-- 📧 Email: your-email@example.com
 - 🌐 Portfolio: *Coming soon*
 
 ---
 
 _Thanks for visiting my profile!_ 👨‍💻
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=tokyonight)
