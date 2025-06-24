@@ -28,7 +28,6 @@ I'm a self-taught web developer currently learning full stack development with a
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
 ---
 
 ## 🧠 Current Learning Progress
@@ -42,6 +41,7 @@ I'm a self-taught web developer currently learning full stack development with a
 | Laravel + PHP | 🔜 Next |
 | Laravel + Vue 3 SPA | 🔜 Upcoming |
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
 ---
 
 ## 💻 Projects
