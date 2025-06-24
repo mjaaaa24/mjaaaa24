@@ -42,14 +42,13 @@ I'm a self-taught web developer currently learning full stack development with a
 | Laravel + Vue 3 SPA | 🔜 Upcoming |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
----
+
 
 ## 💻 Projects
 
 - 🔗 [git-htmlcss-course](https://github.com/mjaaaa24/git-htmlcss-course)
 - 🔗 More coming soon...
 
----
 
 ## 📫 Contact
 
