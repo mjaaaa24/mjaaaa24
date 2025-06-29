@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=donut&langs_count=6&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
 
 
 I'm a self-taught web developer currently learning full stack development with a focus on:
