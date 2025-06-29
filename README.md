@@ -20,7 +20,7 @@ I'm actively building projects and documenting my progress through the following
 | Tailwind CSS | 🟡 In Progress |
 | JavaScript (2024 Update) | 🟡 In Progress |
 | React Front to Back | 🔜 Starting Soon |
-| Laravel + PHP | 🔜 Next |
+| Laravel + PHP | 🟡 In Progress |
 | Laravel + Vue 3 SPA | 🔜 Upcoming |
 
 ---
