@@ -30,14 +30,15 @@ I'm a self-taught web developer currently learning full stack development with a
 ---
 ## 💻 Skills
 
-[![HTML5: Advanced](https://img.shields.io/badge/HTML5%3A%20Advanced-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3: Intermediate](https://img.shields.io/badge/CSS3%3A%20Intermediate-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript: Beginner](https://img.shields.io/badge/JavaScript%3A%20Beginner-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Git: Intermediate](https://img.shields.io/badge/Git%3A%20Intermediate-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![PHP: Beginner](https://img.shields.io/badge/PHP%3A%20Beginner-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/docs.php)
-[![MySQL: Beginner](https://img.shields.io/badge/MySQL%3A%20Beginner-4479A1?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Laravel: Beginner](https://img.shields.io/badge/Laravel%3A%20Beginner-FB503B?style=flat&logo=laravel&logoColor=white)](https://laravel.com/docs)
-[![Tailwind CSS: Beginner](https://img.shields.io/badge/Tailwind_CSS%3A%20Beginner-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
+[![HTML](https://img.shields.io/badge/HTML5-Advanced-lightgray?style=flat&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Intermediate-lightgray?style=flat&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-lightgray?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://img.shields.io/badge/Git-Intermediate-lightgray?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/doc)
+[![PHP](https://img.shields.io/badge/PHP-Beginner-lightgray?style=flat&logo=php&logoColor=777BB4)](https://www.php.net/docs.php)
+[![MySQL](https://img.shields.io/badge/MySQL-Beginner-lightgray?style=flat&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)
+[![Laravel](https://img.shields.io/badge/Laravel-Beginner-lightgray?style=flat&logo=laravel&logoColor=FB503B)](https://laravel.com/docs)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Beginner-lightgray?style=flat&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/docs)
+
 <!-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/learn) -->
 <!-- [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/guide/introduction.html) -->
 
