@@ -1,7 +1,8 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaaaa24&layout=compact&theme=dracula)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjaaaa24&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjaaaa24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 I'm a self-taught web developer currently learning full stack development with a focus on:
 
