@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjaaaa24&show_icons=true&theme=dracula)
+
+
 I'm a self-taught web developer currently learning full stack development with a focus on:
 
 - 📄 HTML, CSS, JS
