@@ -16,7 +16,7 @@ I'm actively building projects and documenting my progress through the following
 
 | 📚 Course | 🔄 Status |
 |----------|-----------|
-| Brad Traversy – HTML & CSS | 🟡 In Progress |
+| HTML & CSS | 🟡 In Progress |
 | Tailwind CSS | 🟡 In Progress |
 | JavaScript (2024 Update) | 🟡 In Progress |
 | React Front to Back | 🔜 Starting Soon |
